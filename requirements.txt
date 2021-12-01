@@ -1,0 +1,4 @@
+py-oauth2>=0.0.5
+requests
+certifi
+paho-mqtt
